@@ -26,13 +26,16 @@ Our project, “MyDeskTime” will help you track & log your study time automati
 
 
 # System Structure
-<center><img src = "./img/SystemStructure1.png" width="400"/>
-<img src = "./img/SystemStructure2.png" width="400"/>
+<img src = "./img/SystemStructure1.png" width="600"/>
+<img src = "./img/SystemStructure2.png" width="600"/>
 
 # Screenshots
-<img src = "./img/Screenshot1.png" width="400"/>
-<img src = "./img/Screenshot2.png" width="400"/>
-<img src = "./img/Screenshot2.png" width="400"/>
-<img src = "./img/Screenshot4.png" width="400"/>
+<img src = "./img/Screenshot1.png" width="600"/>
+<img src = "./img/Screenshot2.png" width="600"/>
+<img src = "./img/Screenshot2.png" width="600"/>
+<img src = "./img/Screenshot4.png" width="600"/>
+
+# Web Page
+[https://thohohong.github.io/my-desktime-web/]
 
 # Demo Video
