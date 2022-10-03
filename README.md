@@ -35,7 +35,6 @@ Our project, “MyDeskTime” will help you track & log your study time automati
 <img src = "./img/Screenshot2.png" width="600"/>
 <img src = "./img/Screenshot4.png" width="600"/>
 
-# Web Page
-[Link](https://thohohong.github.io/my-desktime-web/)
+# [Web Page](https://thohohong.github.io/my-desktime-web/)
 
-# Demo Video
+# [Demo Video](https://drive.google.com/file/d/1jsTr9u_-YgRoIQaTwgZqi68hg57Wpi4U/view?usp=sharing)
