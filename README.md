@@ -26,7 +26,7 @@ Our project, “MyDeskTime” will help you track & log your study time automati
 
 
 # System Structure
-
+<img src = "" width="600"/>
 
 # Screenshots
 
