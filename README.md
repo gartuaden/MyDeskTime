@@ -26,10 +26,13 @@ Our project, “MyDeskTime” will help you track & log your study time automati
 
 
 # System Structure
-<img src = "./SystemStructure1.png" width="600"/>
-<img src = "./SystemStructure2.png" width="600"/>
+<center><img src = "./img/SystemStructure1.png" width="400"/>
+<img src = "./img/SystemStructure2.png" width="400"/>
 
 # Screenshots
-
+<img src = "./img/Screenshot1.png" width="400"/>
+<img src = "./img/Screenshot2.png" width="400"/>
+<img src = "./img/Screenshot2.png" width="400"/>
+<img src = "./img/Screenshot4.png" width="400"/>
 
 # Demo Video
