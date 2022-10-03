@@ -1,0 +1,110 @@
+@import url('https://cdn.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css');
+body {
+    background-color: hsl(216, 33%, 97%);
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Galmuri9', sans-serif;
+    color: #292929;
+    text-align: center;
+    align-content: center;
+}
+
+input[type=file]{
+    background-color: #3370ff;
+
+}
+
+#total-box {
+    width: 600px;
+    padding: 16px;
+    margin: 16px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #999999;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+#time-box {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    justify-content: space-around;
+}
+
+#date {
+    align-self: center;
+    text-align: center;
+    font-size: 16px;
+    padding: 8px;
+    margin-bottom: 16px;
+    background-color: #3370ff;
+    border-radius: 20px;
+    width: 200px;
+    color: white;
+}
+
+#date-not-done {
+    align-self: center;
+    text-align: center;
+    font-size: 16px;
+    padding: 8px;
+    margin-bottom: 16px;
+    background-color: #DDDDDD;
+    border-radius: 20px;
+    width: 200px;
+}
+
+#study-time {
+    text-align: center;
+    font-size: 40px;
+}
+
+#goal-time {
+    text-align: center;
+    font-size: 40px;
+}
+
+#small-title {
+    font-size: 16px;
+    color: #3370ff;
+}
+
+#content-box {
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+}
+
+#title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 600px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+label {
+    background-color: #3370ff;
+    color: white;
+    border-radius: 15px;
+    width: 120px;
+    height: 30px;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
